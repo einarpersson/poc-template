@@ -25,6 +25,7 @@
     "@babel/preset-react": "^7.0.0",
     "@emotion/babel-preset-css-prop": "^10.0.6",
     "babel-loader": "^8.0.5",
+    "dotenv-webpack": "^1.7.0",
     "eslint": "^5.12.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-config-standard-react": "^7.0.2",
@@ -45,7 +46,7 @@
     "@emotion/styled": "^10.0.6",
     "axios": "^0.18.0",
     "cors": "^2.8.5",
-    "dotenv": "^6.2.0",
+    "dotenv-defaults": "^1.0.2",
     "express": "^4.16.4",
     "react": "^16.8.0-alpha.1",
     "react-dom": "^16.8.0-alpha.1"
