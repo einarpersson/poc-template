@@ -3,10 +3,10 @@ A template with react, webpack, express for quick POCs
 
 ## How to
 1. `npm i`
-2. `npm run dev`
+2. `npm run dev:api` and `npm run dev:web`
 
-- React app on localhost:8081
-- API on localhost:3000
+- React app on localhost:8081 (webpack dev server)
+- API on localhost:3000 (default port)
 
 
 ## Config
