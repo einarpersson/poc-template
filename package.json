@@ -47,7 +47,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.6",
     "@emotion/styled": "^10.0.6",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "cors": "^2.8.5",
     "dotenv-defaults": "^1.0.2",
     "express": "^4.16.4",
