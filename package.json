@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "dev": "webpack-dev-server --open --mode development & nodemon api/server.js --ignore dist",
-    "dev:api": "nodemon api/server.js --ignore dist",
+    "dev": "webpack-dev-server --open --mode development & nodemon server.js --ignore dist",
+    "dev:api": "nodemon server.js --ignore dist",
     "dev:web": "webpack-dev-server --open --mode development",
     "build": "webpack --mode production"
   },
