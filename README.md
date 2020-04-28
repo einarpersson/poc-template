@@ -1,5 +1,5 @@
-# poc-template
-A template with react, webpack, express for quick POCs
+# POC-template
+A template with react, webpack, express for quick POCs.
 
 ## How to
 1. `npm i`
@@ -7,7 +7,6 @@ A template with react, webpack, express for quick POCs
 
 - React app on localhost:8081 (webpack dev server)
 - API on localhost:3000 (default port)
-
 
 ## Config
 This project uses [dotenv](https://www.npmjs.com/package/dotenv) for environment variables for the backend. 
